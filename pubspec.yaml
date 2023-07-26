@@ -39,6 +39,7 @@ dependencies:
   scidart: ^0.0.2-dev.12
   csv: ^5.0.2
   syncfusion_flutter_charts: ^22.1.37
+  arrow_path: ^3.1.0
 
 dev_dependencies:
   flutter_test:
